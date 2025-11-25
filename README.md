@@ -1,0 +1,1 @@
+# esp32cam-thingsboard-snapshot-demo
